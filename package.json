@@ -1,0 +1,17 @@
+{
+  "name": "value-objects-typescript",
+  "version": "0.0.0",
+  "description": "TypeScriptの値オブジェクト",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue32a-sandbox/value-objects-typescript.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}

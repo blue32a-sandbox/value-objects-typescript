@@ -1,2 +1,1 @@
-# value-objects-typescript
- TypeScriptの値オブジェクト
+# TypeScriptの値オブジェクト
